@@ -12,7 +12,7 @@ namespace HelloService
     {
 
         #region IHelloService Members
-
+	//check git if modified
         public string Getmessage(string name)
         {
             return "Hello " + name;
