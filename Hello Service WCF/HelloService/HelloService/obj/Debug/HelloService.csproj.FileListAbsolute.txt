@@ -1,0 +1,5 @@
+D:\WCF Practice\HelloService\HelloService\bin\Debug\HelloService.dll.config
+D:\WCF Practice\HelloService\HelloService\bin\Debug\HelloService.dll
+D:\WCF Practice\HelloService\HelloService\bin\Debug\HelloService.pdb
+D:\WCF Practice\HelloService\HelloService\obj\Debug\HelloService.dll
+D:\WCF Practice\HelloService\HelloService\obj\Debug\HelloService.pdb

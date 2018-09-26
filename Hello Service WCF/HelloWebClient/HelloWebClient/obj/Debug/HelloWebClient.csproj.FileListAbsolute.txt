@@ -1,0 +1,4 @@
+D:\WCF Practice\HelloWebClient\HelloWebClient\bin\HelloWebClient.dll
+D:\WCF Practice\HelloWebClient\HelloWebClient\bin\HelloWebClient.pdb
+D:\WCF Practice\HelloWebClient\HelloWebClient\obj\Debug\HelloWebClient.dll
+D:\WCF Practice\HelloWebClient\HelloWebClient\obj\Debug\HelloWebClient.pdb
