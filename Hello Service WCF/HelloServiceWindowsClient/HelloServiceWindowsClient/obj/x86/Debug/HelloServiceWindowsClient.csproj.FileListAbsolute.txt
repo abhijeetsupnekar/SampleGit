@@ -1,0 +1,8 @@
+D:\WCF Practice\HelloServiceWindowsClient\HelloServiceWindowsClient\bin\Debug\HelloServiceWindowsClient.exe.config
+D:\WCF Practice\HelloServiceWindowsClient\HelloServiceWindowsClient\bin\Debug\HelloServiceWindowsClient.exe
+D:\WCF Practice\HelloServiceWindowsClient\HelloServiceWindowsClient\bin\Debug\HelloServiceWindowsClient.pdb
+D:\WCF Practice\HelloServiceWindowsClient\HelloServiceWindowsClient\obj\x86\Debug\HelloServiceWindowsClient.Form1.resources
+D:\WCF Practice\HelloServiceWindowsClient\HelloServiceWindowsClient\obj\x86\Debug\HelloServiceWindowsClient.Properties.Resources.resources
+D:\WCF Practice\HelloServiceWindowsClient\HelloServiceWindowsClient\obj\x86\Debug\HelloServiceWindowsClient.csproj.GenerateResource.Cache
+D:\WCF Practice\HelloServiceWindowsClient\HelloServiceWindowsClient\obj\x86\Debug\HelloServiceWindowsClient.exe
+D:\WCF Practice\HelloServiceWindowsClient\HelloServiceWindowsClient\obj\x86\Debug\HelloServiceWindowsClient.pdb
